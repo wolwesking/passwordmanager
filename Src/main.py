@@ -3,7 +3,7 @@ import mysql.connector
 from dotenv import load_dotenv
 import os
 from tkinter import messagebox
-
+# Hello mom
 
 # Initialize window
 window = tk.Tk()
@@ -79,8 +79,6 @@ def loginPage():
     loginPage = tk.Toplevel(window)
     loginPage.geometry("800x600")
     loginPage.title("Login page")
-
-
 
 
 # Calling Main
