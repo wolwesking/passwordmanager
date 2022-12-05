@@ -1,4 +1,4 @@
-# My password managger
+# My password manager
 
 ## Day 1 28/11/2022
 Today I created and choosed the tools and created the charts
